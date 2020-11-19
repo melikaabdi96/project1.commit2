@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc06f10f-9b38-45c6-966a-ca9062183740" name="Default Changelist" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q4/hw2_q4.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q5/hw2_q5.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q6/hw2_q6.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q6/src/com/company/FinancialSystem.java" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q6/src/com/company/ProductionLine.java" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw2_q6/src/com/company/Store.java" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/hw4_q3/hw4_q3.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/othello/othello.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/pentagon/pentagon.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/workshop5/src/com/company/Rectangle.java" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/workshop5/src/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/workshop6/workshop6.iml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/workshop7/workshop7.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kVWUmvELieuuxj5IviGQejNDyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc06f10f-9b38-45c6-966a-ca9062183740" name="Default Changelist" comment="" />
+      <created>1605786256493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605786256493</updated>
+      <workItem from="1605786257644" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
